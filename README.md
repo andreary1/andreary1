@@ -6,7 +6,6 @@ I'm a Computer Engineering student passionate about technology and software deve
 ## Technologies & Tools
 - 🐍 Python
 - ⚙️ C#
-- 💾 SQL & Databases
 - 🔧 Git & GitHub
 
 ## What I'm Working On
