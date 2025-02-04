@@ -1,4 +1,4 @@
-# Print("Hi there! 👋")
+# Print("Hello World! 👋")
 
 ## About Me
 I'm a Computer Engineering student passionate about technology and software development. Currently, I'm focusing on learning Python and C# to enhance my programming skills and build exciting projects.
