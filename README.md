@@ -6,6 +6,7 @@ I'm a 17 years old Computer Engineering student passionate about technology and 
 ## Technologies & Tools
 - 🐍 Python
 - ⚙️ C#
+- 🖥️ HTML and CSS
 - 🔧 Git & GitHub
 
 ## GitHub Stats
