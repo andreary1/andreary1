@@ -8,9 +8,6 @@ I'm a 17 years old Computer Engineering student passionate about technology and 
 - ⚙️ C#
 - 🔧 Git & GitHub
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
 ## What I'm Working On
 I'm constantly working on small projects and exercises to improve my problem-solving skills and deepen my understanding of programming concepts.
 
