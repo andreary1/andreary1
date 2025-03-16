@@ -11,7 +11,7 @@ I'm a 17-year-old Computer Engineering student at the Federal Institute of Educa
 
 ## GitHub Stats
 <img alt="My Stats" align="Center" width="47%" src="https://github-readme-stats.vercel.app/api?username=andreary1&show_icons=true&theme=tokyonight"/>
-<img alt="My Most Used Languages" align="Center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreary1&theme=tokyonight&layout=compact&exclude_repo=crazy-alloy,andreary1.github.io"/>
+<img alt="My Most Used Languages" align="Center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreary1&theme=tokyonight&layout=donut-vertical&exclude_repo=crazy-alloy,andreary1.github.io"/>
 
 
 ## What I'm Working On
