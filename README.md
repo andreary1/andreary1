@@ -1,7 +1,7 @@
 # Print("Hello World! 👋")
 
 ## About Me
-I'm a 17-year-old Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará, passionate about technology and software development. Currently, I'm focusing on learning Python and C# to improve my programming skills and build interesting projects.
+I'm a 18-year-old Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará, passionate about technology and software development. Currently, I'm focusing on learning Python and C# to improve my programming skills and build interesting projects.
 
 ## Technologies & Tools
 - 🐍 Python
