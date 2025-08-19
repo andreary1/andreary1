@@ -5,9 +5,10 @@ I'm a 18-year-old Computer Engineering student at the Federal Institute of Educa
 
 ## Technologies & Tools
 - 🐍 Python
-- ⚙️ C and C#
+- ⚙️ C & C#
 - 🖥️ HTML and CSS
 - 🔧 Git & GitHub
+- 🟦 Dart & Flutter
 
 ## GitHub Stats
 <img alt="My Stats" align="Center" width="47%" src="https://github-readme-stats.vercel.app/api?username=andreary1&show_icons=true&theme=tokyonight"/>
