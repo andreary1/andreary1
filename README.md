@@ -6,7 +6,7 @@ I'm a 18-year-old Computer Engineering student at the Federal Institute of Educa
 ## Technologies & Tools
 - 🐍 Python
 - ⚙️ C & C#
-- 🖥️ HTML and CSS
+- 🖥️ HTML & CSS
 - 🔧 Git & GitHub
 - 🟦 Dart & Flutter
 
