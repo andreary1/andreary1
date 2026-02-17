@@ -4,11 +4,7 @@
 I'm a 18-year-old Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará, passionate about technology and software development. Currently, I'm focusing on learning Python and C# to improve my programming skills and build interesting projects.
 
 ## Technologies & Tools
-- 🐍 Python
-- ⚙️ C & C#
-- 🖥️ HTML & CSS
-- 🔧 Git & GitHub
-- 🟦 Dart & Flutter
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,flask,sqlite,c,cs,unity,figma,dart,flutter,git,github)](https://skillicons.dev)
 
 ## GitHub Stats
 <img alt="My Stats" align="Center" width="47%" src="https://github-readme-stats.vercel.app/api?username=andreary1&show_icons=true&theme=tokyonight"/>
