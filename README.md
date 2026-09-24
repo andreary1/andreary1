@@ -1,7 +1,7 @@
 # Print("Hello World! 👋")
 
 ## About Me
-I'm a Computer Engineering student at the Federal Institute of Education, Science and Technology of Ceará, passionate about technology and software development. Currently, I'm focusing on learning Python and C# to improve my programming skills and build interesting projects.
+I am a Computer Engineering student focusing on the development and maintenance of systems, APIs and web applications. I volunteer on the backend of the Artificial Intelligence Laboratory (LIA) and the Huawei ICT Academy at IFCE, developing projects with Python, FastAPI, and PostgreSQL. I have knowledge of API integration, testing, and technical documentation, as well as practical projects that demonstrate the ability to implement features and make fixes and improvements.
 
 ## Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,flask,sqlite,c,cs,unity,figma,dart,flutter,git,github)](https://skillicons.dev)
